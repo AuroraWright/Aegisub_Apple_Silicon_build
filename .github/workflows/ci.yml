@@ -11,7 +11,7 @@ on:
 jobs:
   build:
     name: Build Apple Silicon native and notarized dmg file
-    runs-on: macos-15
+    runs-on: macos-14
 
 
     steps:
